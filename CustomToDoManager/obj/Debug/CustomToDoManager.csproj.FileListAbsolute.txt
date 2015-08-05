@@ -1,0 +1,5 @@
+D:\Projects\CustomToDoManager\CustomToDoManager\obj\Debug\CustomToDoManager.dll
+D:\Projects\CustomToDoManager\CustomToDoManager\obj\Debug\CustomToDoManager.pdb
+D:\CustomToDoManager.dll.config
+D:\CustomToDoManager.dll
+D:\CustomToDoManager.pdb
